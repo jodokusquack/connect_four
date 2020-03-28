@@ -10,4 +10,4 @@ develop a project.
 For testing, the framework RSpec is used.
 
 To play the game, clone the project onto your computer and then execute
-'connect_four.rb'.
+`./connect_four.rb`.
